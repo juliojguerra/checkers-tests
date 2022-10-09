@@ -1,0 +1,17 @@
+{
+  "name": "api-deck-of-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api_tests.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "cypress": "^10.9.0",
+    "mocha": "^10.0.0",
+    "supertest": "^6.3.0"
+  }
+}
